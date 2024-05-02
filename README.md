@@ -40,4 +40,4 @@ Limitations of HostelComply include:
 - [Nagavinay](https://github.com/Chetanperisetti)
 - shyam 
 
-Feel free to adjust or expand upon this README as needed!
+
