@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pendincomplaints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="pending complaints" />
+    <item
+        android:id="@+id/solvedcomplaints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_check_circle_outline_24"
+        android:title="solved complaints" />
+    <item
+        android:id="@+id/Hostellayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_dashboard_24"
+        android:title="Hostel layout" />
+</menu>

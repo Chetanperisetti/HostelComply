@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ProblemItem">
+        <item>fan</item>
+        <item>light</item>
+        <item>socket</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="ProblemplumnerItem">
+        <item>tap</item>
+        <item>pipe leak</item>
+        <item>Pipe complete damage</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="washroom_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
